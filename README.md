@@ -10,12 +10,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haddadguilherme&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haddadguilherme&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haddadguilherme&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
+### ✍️ Citação Aleatória de algum Dev rs
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Meme aleatório para descontrair
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
